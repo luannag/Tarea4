@@ -1,0 +1,6 @@
+animales { margin: 50px; background-color: #53A1A8;}
+titulo { display: block; font: bold 20px arial; text-align: center;}
+raza { display: block; font: bold 16px arial; }
+grupo { display: block; }
+tipo  { display: list-item; margin-left: 20px; }
+des { display: block; font: bold 15px arial; }
