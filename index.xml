@@ -1,41 +1,46 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="styleHome.css"?>
-<animales>
-  <titulo>Diferentes razas de perros</titulo>
-    <grupo>
-      <raza>Schnauzer </raza>
-	    <des>Países de origen</des>
-      <tipo> Alemania, Europa</tipo>
-	  <des>Personalidad</des>
-	   <tipo> Leal </tipo>
-	   <tipo> Inteligente </tipo>
-	   <tipo> Entrenable </tipo>
-  </grupo>
-   <grupo>
-      <raza>Poodle</raza>
-	  <des>Países de origen</des>
-      <tipo>Francia, Alemania y Rusia</tipo>
-	    <des>Personalidad</des>
-      	   <tipo> Juguetón </tipo>
-	   <tipo> Activo </tipo>
-		<tipo> Instintivo </tipo>
-  </grupo>
-   <grupo>
-      <raza>Golden retriever</raza>
-	  <des>Países de origen</des>
-      <tipo>Reino Unido, Inglaterra, Escocia</tipo>
-	  <des>Personalidad</des>
-       <tipo> Amable </tipo>
-	   <tipo> Cariñoso </tipo>
-	   <tipo> Dócil </tipo>
-  </grupo>
-   <grupo>
-      <raza>Yorkshire</raza>
-	  <des>País de origen</des>
-      <tipo>Reino Unido</tipo>
-	   <des>Personalidad</des>
-       <tipo> Audaz </tipo>
-	   <tipo> Energético </tipo>
-		<tipo> Dominante </tipo>
-  </grupo>
-</animales>
+
+<raza>
+
+<perro>
+<name>Schnauzer</name>
+<pais>Alemania.</pais>
+<personalidad>
+ <tipo> Leal. </tipo>
+<tipo> Inteligente. </tipo>
+<tipo> Entrenable. </tipo>
+</personalidad>
+</perro>
+
+<perro>
+<name>Poodle</name>
+<pais>Francia.</pais>
+<personalidad>
+<tipo> Juguetón. </tipo> 
+<tipo> Activo. </tipo>
+<tipo> Instintivo. </tipo>
+</personalidad>
+</perro>
+
+<perro>
+<name>Golden retriever</name>
+<pais>Escocia.</pais>
+<personalidad>
+<tipo> Amable. </tipo>
+<tipo> Cariñoso. </tipo>
+<tipo> Docil. </tipo>
+</personalidad>
+</perro>
+
+<perro>
+<name>Yorkshire</name>
+<pais>Reino Unido.</pais>
+<personalidad>
+<tipo> Audaz. </tipo>
+<tipo> Energético. </tipo>
+<tipo> Dominante. </tipo>
+</personalidad>
+</perro>
+
+</raza>
